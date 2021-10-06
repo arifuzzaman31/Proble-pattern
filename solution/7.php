@@ -1,7 +1,16 @@
 <?php
 
 //7. program to construct the following pattern, using a nested for loop
-
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+	
 $n = 10;
 $m = 1;
 $flag = 0;
